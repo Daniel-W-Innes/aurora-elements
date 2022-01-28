@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Daniel’s Homebrew</name>
+		<author url="https://github.com/Daniel-W-Innes">Daniel</author>
+		<update version="0.0.1">
+			<file name="daniel.index" url="https://raw.githubusercontent.com/Daniel-W-Innes/elements/aurora-elements/daniel.index" />
+		</update>
+	</info>
+	<files>	
+		<!-- items -->
+		<file name="items-clothing.xml" url="https://raw.githubusercontent.com/Daniel-W-Innes/elements/aurora-elements/items/items-clothing.xml" />
+	</files>
+</index>
