@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<update version="0.1">
+		<update version="0.1.1">
 			<file name="source.xml" url="https://raw.githubusercontent.com/community-elements/elements-reddit/master/reddit/reddit-dnd/source.xml" />
 		</update>
 	</info>
@@ -10,7 +10,7 @@
 		<setters>
 			<set name="abbreviation">DH</set>
 			<set name="url">https://github.com/Daniel-W-Innes</set>
-			<author url="https://github.com/Daniel-W-Innes" abbreviation="DWI">Daniel Innes</author>
+			<set name="author" url="https://github.com/Daniel-W-Innes" abbreviation="DWI">Daniel Innes</set>
 			<set name="homebrew">true</set>
 		</setters>
 	</element>
