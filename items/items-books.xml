@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Clothing</name>
+		<description></description>
+		<author url="https://github.com/Daniel-W-Innes">Daniel</author>
+		<update version="0.0.1">
+			<file name="items-books.xml" url="https://raw.githubusercontent.com/Daniel-W-Innes/aurora-elements/main/items/items-books.xml" />
+		</update>
+	</info>
+		<element name="Creatures of the Shadow" type="Item" source="Daniel’s Homebrew" id="ID_DWI_CREATURES_OF_THE_SHADOW">
+		<description>
+			<p>A book detailing creatures shadowfell and other creatures that commonly inhabit darkest spots of dungeons.</p>
+		</description>
+		<setters>
+			<set name="category">Book</set>
+			<set name="cost" currency="gp">25</set>
+			<set name="weight" lb="5">5 lb.</set>
+		</setters>
+	</element>
+</elements>

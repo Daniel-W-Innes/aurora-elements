@@ -2,13 +2,14 @@
 <index>
 	<info>
 		<name>Daniel’s Homebrew</name>
-		<author url="https://github.com/Daniel-W-Innes">Daniel</author>
+		<author url="https://github.com/Daniel-W-Innes" abbreviation="DWI">Daniel Innes</author>
 		<update version="0.0.1">
-			<file name="daniel.index" url="https://raw.githubusercontent.com/Daniel-W-Innes/elements/aurora-elements/daniel.index" />
+			<file name="daniel.index" url="https://raw.githubusercontent.com/Daniel-W-Innes/aurora-elements/main/daniel.index" />
 		</update>
 	</info>
 	<files>	
+		<file name="source.xml" url="https://raw.githubusercontent.com/Daniel-W-Innes/aurora-elements/main/source.xml" />
 		<!-- items -->
-		<file name="items-clothing.xml" url="https://raw.githubusercontent.com/Daniel-W-Innes/elements/aurora-elements/items/items-clothing.xml" />
+		<file name="items-books.xml" url="https://raw.githubusercontent.com/Daniel-W-Innes/aurora-elements/main/items/items-books.xml" />
 	</files>
 </index>
